@@ -1,0 +1,8 @@
+{
+  "name": "rn-better-template",
+  "version": "1.0.0",
+  "description": "RN模版",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
